@@ -33,6 +33,7 @@ public class QuickSort {
         
         System.out.println();
         System.out.println();
+        System.out.println("************************");
         System.out.println("Palabras Ordenadas");
         System.out.println("************************");
         
